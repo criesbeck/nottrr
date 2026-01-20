@@ -1,6 +1,6 @@
 # NOT The Real Responsinator
 
-Une version locale de [Responsinator](https://www.responsinator.com/) pour tester
-facilement les pages HTML locales.
+A clone of michelc's [NOT The Real Responsinator](https://michelc.github.io/nottrr/).
 
-Démo : https://michelc.github.io/nottrr/
+
+Démo : https://criesbecj.github.io/nottrr/
